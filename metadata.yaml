@@ -1,0 +1,31 @@
+_repo: Beobachtungen--ber-das-Gef-hl-des-Sch-nen-und-Erhabenen_41197
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41197-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, Emmanuel
+    - Kant, I. (Immanuil)
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41197'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BH'
+- !lcsh 'Aesthetics'
+title: Beobachtungen über das Gefühl des Schönen und Erhabenen
+url: http://www.gutenberg.org/ebooks/41197
